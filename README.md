@@ -27,5 +27,5 @@ I am a Full Stack Developer from Spain.
 ---
 
 ### 🔥 &nbsp; My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuniet&layout=compact&theme=vision-friendly-dark)]
+<div align='center'>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuniet&layout=compact&theme=vision-friendly-dark)</div>
 
