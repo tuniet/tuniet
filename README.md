@@ -1,6 +1,6 @@
 
 <h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
-<img align='center' src = 'https://media.giphy.com/media/FoVzfcqCDSb7zCynOp/giphy.gif'></img>
+<div align='center'><img src = 'https://media.giphy.com/media/FoVzfcqCDSb7zCynOp/giphy.gif'></img></div>
 <h2>👨🏽‍💻About me</h2> &nbsp;About Me :
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
