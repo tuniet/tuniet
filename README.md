@@ -1,7 +1,8 @@
 
 <h1 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"> Hey there, I'm Toni </h1>
 <div align='center'><img src = 'https://media.giphy.com/media/FoVzfcqCDSb7zCynOp/giphy.gif'></img></div>
-<h2>👨🏽‍💻About me</h2>
+---
+### 👨🏽‍💻 About me
 I am a Full Stack Developer from Spain.
 
 - 🔭 I’m working as a Full-Stack Developer and UX/UI Designer and contributing to frontend and backend for building web applications.
