@@ -6,7 +6,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - 🔭 I’m working as a Full-Stack Developer and UI/UI Designer and contributing to frontend and backend for building web applications.
 - 🌱 Exploring Technical Content Writing.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tuniet)
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-tuniet-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tuniet)
 
 ---
 
