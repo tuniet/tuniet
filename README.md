@@ -11,9 +11,9 @@ I'm a passionate software developer with a diverse learning journey. I started i
 Currently, I'm deepening my knowledge at 42 Madrid, an exclusive coding program by Fundación Telefónica, where I’m focusing on C and C++ for application development. This program challenges me to solve complex problems, improve my algorithmic thinking, and build efficient, low-level applications.
 Tech Stack & Interests:
 
-💻 Full-Stack: JavaScript, React, Node.js, Express, MongoDB
-⚙️ Low-Level Programming: C, C++
-🚀 Always Learning: System programming, algorithms, and software architecture
+- 💻 Full-Stack: JavaScript, React, Node.js, Express, MongoDB
+- ⚙️ Low-Level Programming: C, C++
+- 🚀 Always Learning: System programming, algorithms, and software architecture
 
 I love tackling new challenges, collaborating on exciting projects, and continuously improving my skills. Let's build something awesome together! 🚀
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-tuniet-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tuniet)
