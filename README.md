@@ -15,7 +15,7 @@ Tech Stack & Interests:
 - ⚙️ Low-Level Programming: C, C++
 - 🚀 Always Learning: System programming, algorithms, and software architecture
 
-I love tackling new challenges, collaborating on exciting projects, and continuously improving my skills. Let's build something awesome together! 🚀
+I love tackling new challenges, collaborating on exciting projects, and continuously improving my skills. Let's build something awesome together!
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-tuniet-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tuniet)
 
 ---
