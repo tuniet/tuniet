@@ -6,10 +6,16 @@
 
 ### 👨🏽‍💻 About me :
 
-I am a Full Stack Developer from Spain.
+I'm a passionate software developer with a diverse learning journey. I started in IT college but found my true calling in hands-on coding experiences. I completed a full-stack web development bootcamp at 4GeeksAcademy, where I specialized in the MERN stack (MongoDB, Express.js, React, Node.js).
 
-- 🔭 I’m working as a Full-Stack Developer and UX/UI Designer and contributing to frontend and backend for building web applications.
-- 🌱 Exploring new technologies.
+Currently, I'm deepening my knowledge at 42 Madrid, an exclusive coding program by Fundación Telefónica, where I’m focusing on C and C++ for application development. This program challenges me to solve complex problems, improve my algorithmic thinking, and build efficient, low-level applications.
+Tech Stack & Interests:
+
+💻 Full-Stack: JavaScript, React, Node.js, Express, MongoDB
+⚙️ Low-Level Programming: C, C++
+🚀 Always Learning: System programming, algorithms, and software architecture
+
+I love tackling new challenges, collaborating on exciting projects, and continuously improving my skills. Let's build something awesome together! 🚀
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-tuniet-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tuniet)
 
 ---
