@@ -46,6 +46,27 @@ I love tackling new challenges, collaborating on exciting projects, and continuo
 </p>
 
 ---
-### 🔥 &nbsp; My Stats :
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuniet&layout=compact&theme=vision-friendly-dark)
+### 🚀 Featured Projects
 
+- **42 Minishell**  
+  A lightweight Unix shell written in C, implementing pipes, redirections, environment variables, and built-in commands.
+  👉 https://github.com/tuniet/42_Minishell
+  
+- **42 Cub3D**  
+  A 3D raycasting engine inspired by Wolfenstein 3D, built in C with MiniLibX, featuring textured walls and real-time rendering.
+  👉 https://github.com/tuniet/42_Cub3d
+
+- **42 Philosophers**  
+  A concurrency project exploring threads, mutexes, and synchronization through the classic dining philosophers problem.
+  👉 https://github.com/tuniet/42_Philosophers
+  
+- **Web Portfolio**  
+  A personal portfolio website showcasing projects, skills, and experience with a clean, responsive design.
+  👉 https://github.com/tuniet/portfolio24
+  
+- **Neptune Hotel**  
+  A fictional hotel website featuring room listings, amenities, and booking-style layouts, focused on modern UI and UX.
+  👉 https://github.com/tuniet/NeptuneHotel
+- **Meraki**  
+  A fictional clothing e-commerce website emphasizing brand identity, product presentation, and responsive design.
+  👉 https://github.com/tuniet/MerakiShop
