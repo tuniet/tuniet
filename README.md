@@ -54,7 +54,7 @@ I love tackling new challenges, collaborating on exciting projects, and continuo
   
 - **42 Cub3D**  
   A 3D raycasting engine inspired by Wolfenstein 3D, built in C with MiniLibX, featuring textured walls and real-time rendering.
-  👉 https://github.com/tuniet/42_Cub3d
+  👉 https://github.com/tuniet/42_Cub3D
 
 - **42 Philosophers**  
   A concurrency project exploring threads, mutexes, and synchronization through the classic dining philosophers problem.
